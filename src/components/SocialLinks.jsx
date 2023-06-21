@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/jonathan-rajkovic-blazer/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://gitlab.com/jonathanrblazer",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:jonathan.r.blazer@gmail.com",
     },
     {
       id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
         </>
       ),
       style: "rounded-br-md",
-      href: "/resume.pdf",
+      href: "/Jonathan-Blazer-Resume.pdf",
       download: true,
     },
   ];
